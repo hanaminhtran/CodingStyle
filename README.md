@@ -1,5 +1,5 @@
 
-# Coding Standard Javascript - Anvy
+# Javascript Coding Standard  - Anvy
 
 ## Mục lục
   1. [Giới thiệu](#giới-thiệu)
