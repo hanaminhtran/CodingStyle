@@ -1,5 +1,5 @@
 
-# clean-code-javascript
+# Coding Standard Javascript - Anvy
 
 ## Mục lục
   1. [Giới thiệu](#giới-thiệu)
